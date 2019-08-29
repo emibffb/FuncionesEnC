@@ -1,0 +1,4 @@
+Comandos de Git.
+1)Primero debo tener un repositorio creado.
+2)Para clonarlo uso el git clone.
+3)Agregar los archivos nuevos o modificados git add .
