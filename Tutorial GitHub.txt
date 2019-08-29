@@ -4,3 +4,4 @@ Comandos de Git.
 3)Agregar los archivos nuevos o modificados git add .(comando git add)
 4)Hacer Git commit - m "Mensaje del commit" (git commit - m)
 5)Subo todo los commit a gitHub.(comando gitPush)
+6)Para actualizar el repositorio cuando lo clonas (git pull)
