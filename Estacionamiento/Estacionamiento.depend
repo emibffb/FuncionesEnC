@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1569499827 source:c:\users\alumno\documents\codeblocks\estacionamiento\estacionamiento.c
+
+1569502706 source:c:\users\alumno\documents\codeblocks\estacionamiento\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Estacionamiento.h"
+
+1569505933 c:\users\alumno\documents\codeblocks\estacionamiento\estacionamiento.h
+	<stdio.h>
+	<string.h>
+
